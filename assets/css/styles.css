@@ -119,8 +119,7 @@ nav ul li {
 }
 
 .hero img {
-  height: 37.5rem;
-  width: 37.5rem;
+  width: 40vw;
   object-fit: cover;
 }
 
