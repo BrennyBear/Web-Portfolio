@@ -30,6 +30,14 @@ html {
   /* border: 2px solid red; */
 }
 
+div{
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  max-width: 68.75rem;
+  margin: auto;
+}
+
 ul {
   list-style-type: none;
 }
