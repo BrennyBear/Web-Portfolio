@@ -118,9 +118,14 @@ nav ul li {
   margin: auto;
 }
 
+.HeroDiv
+{
+  display:block;
+}
 .hero img {
   width: 40vw;
   object-fit: cover;
+
 }
 
 .bio {
